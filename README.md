@@ -1,1 +1,1 @@
-# SBT_ML
+### Repository for Sberbank-Technology machine learning and python courses
